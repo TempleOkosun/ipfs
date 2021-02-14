@@ -1,0 +1,12 @@
+a dapp for hosting files
+
+Msking it harder for files to disappear from the web and easier for others to access it retrieving the file from a closer person who has it.
+
+If someone else tries to upload the same file it will generate the same hash and thus we avoid duplicates on the network. We dont clutter the network.
+
+file storage for each account
+
+upload files for an account.the hash, type and date of uploaded file will be stored in a smc
+
+databases of files for accounts
+
